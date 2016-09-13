@@ -1,0 +1,22 @@
+//
+//  SNPrefixHeader.pch
+//  SNFramework
+//
+//  Created by huangshuni on 16/9/1.
+//  Copyright © 2016年 huangshuni. All rights reserved.
+//
+
+#ifndef SNPrefixHeader_pch
+#define SNPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "AFNetworking.h"
+#import "SNNetwork.h"
+#import "SNTools.h"
+
+#define LKB_URL @"http://www.lvkeworld.com/ashx/App.ashx"
+
+
+#endif /* SNPrefixHeader_pch */

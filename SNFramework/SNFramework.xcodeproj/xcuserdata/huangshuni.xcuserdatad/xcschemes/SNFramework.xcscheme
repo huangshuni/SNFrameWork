@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A040CF61D6823A700DBDE1A"
+               BlueprintIdentifier = "2AC1C0771D6EC6D900DE3E55"
                BuildableName = "SNFramework.app"
                BlueprintName = "SNFramework"
                ReferencedContainer = "container:SNFramework.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A040D0F1D6823A700DBDE1A"
+               BlueprintIdentifier = "2AC1C0901D6EC6DA00DE3E55"
                BuildableName = "SNFrameworkTests.xctest"
                BlueprintName = "SNFrameworkTests"
                ReferencedContainer = "container:SNFramework.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A040D1A1D6823A700DBDE1A"
+               BlueprintIdentifier = "2AC1C09B1D6EC6DA00DE3E55"
                BuildableName = "SNFrameworkUITests.xctest"
                BlueprintName = "SNFrameworkUITests"
                ReferencedContainer = "container:SNFramework.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A040CF61D6823A700DBDE1A"
+            BlueprintIdentifier = "2AC1C0771D6EC6D900DE3E55"
             BuildableName = "SNFramework.app"
             BlueprintName = "SNFramework"
             ReferencedContainer = "container:SNFramework.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A040CF61D6823A700DBDE1A"
+            BlueprintIdentifier = "2AC1C0771D6EC6D900DE3E55"
             BuildableName = "SNFramework.app"
             BlueprintName = "SNFramework"
             ReferencedContainer = "container:SNFramework.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A040CF61D6823A700DBDE1A"
+            BlueprintIdentifier = "2AC1C0771D6EC6D900DE3E55"
             BuildableName = "SNFramework.app"
             BlueprintName = "SNFramework"
             ReferencedContainer = "container:SNFramework.xcodeproj">
