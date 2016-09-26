@@ -19,4 +19,18 @@
 #define LKB_URL @"http://www.lvkeworld.com/ashx/App.ashx"
 
 
+#pragma mark - 屏幕类
+
+#define SCREEN_BOUNDS ([UIScreen mainScreen].bounds)
+#define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)
+#define SCREEN_HEIGHT ([UIScreen mainScreen].bounds.size.height)
+
+#pragma mark - 颜色类
+
+#define ColorWithRGBA(R,G,B,A) ([UIColor colorWithRed:R/255.0 green:G/255.0 blue:B/255.0 alpha:A])
+#define ColorWithRGB(R,G,B) ([UIColor colorWithRed:R/255.0 green:G/255.0 blue:B/255.0 alpha:1.0])
+#define LKBColor ColorWithRGB(57,189,233)
+
+
+
 #endif /* SNPrefixHeader_pch */

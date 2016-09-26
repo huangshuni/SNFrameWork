@@ -27,7 +27,7 @@
 #pragma mark--需要对输入的参数做处理
 -(BOOL)NetworkingManager:(NetworkingBaseManager *)manager isCorrectWithParamsData:(NSDictionary *)data{
     
-    return NO;
+    return YES;
 }
 #pragma mark-需要对返回的数据处理
 -(BOOL)NetworkingManager:(NetworkingBaseManager *)manager isCorrecWithCallBackData:(NSDictionary *)data{

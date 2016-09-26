@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		19F8C53F850391C3F12E4A6B /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5498AF1E1BED74CA69028B0A /* libPods.a */; };
+		2A3BEC031D93CAEE00579956 /* SNWordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A3BEC021D93CAEE00579956 /* SNWordViewController.m */; };
+		2A515F381D94CAE60020D232 /* SNSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A515F371D94CAE60020D232 /* SNSegmentedControl.m */; };
 		2A7033791D7D7E2F00DD42F0 /* NSObject+JsonAndDic.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A7033781D7D7E2F00DD42F0 /* NSObject+JsonAndDic.m */; };
 		2A70337C1D7D7F7700DD42F0 /* NSString+Tool.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A70337B1D7D7F7700DD42F0 /* NSString+Tool.m */; };
 		2AAFC82A1D864E6C003730B3 /* SNNetCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAFC8271D864E6C003730B3 /* SNNetCache.m */; };
@@ -24,6 +26,7 @@
 		2AAFC84D1D86AA00003730B3 /* NetworkingCacheObjdect.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAFC84C1D86AA00003730B3 /* NetworkingCacheObjdect.m */; };
 		2AAFC8501D86ACCF003730B3 /* NSDictionary+Networking.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAFC84F1D86ACCF003730B3 /* NSDictionary+Networking.m */; };
 		2AAFC8531D86AD39003730B3 /* NSArray+Networking.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAFC8521D86AD39003730B3 /* NSArray+Networking.m */; };
+		2ABBFE1F1D8E3DFA00125CA7 /* NET1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2ABBFE1E1D8E3DFA00125CA7 /* NET1ViewController.m */; };
 		2AC1C07D1D6EC6D900DE3E55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AC1C07C1D6EC6D900DE3E55 /* main.m */; };
 		2AC1C0801D6EC6D900DE3E55 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AC1C07F1D6EC6D900DE3E55 /* AppDelegate.m */; };
 		2AC1C0831D6EC6D900DE3E55 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AC1C0821D6EC6D900DE3E55 /* ViewController.m */; };
@@ -52,6 +55,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A3BEC011D93CAEE00579956 /* SNWordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNWordViewController.h; sourceTree = "<group>"; };
+		2A3BEC021D93CAEE00579956 /* SNWordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNWordViewController.m; sourceTree = "<group>"; };
+		2A515F361D94CAE60020D232 /* SNSegmentedControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNSegmentedControl.h; sourceTree = "<group>"; };
+		2A515F371D94CAE60020D232 /* SNSegmentedControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SNSegmentedControl.m; sourceTree = "<group>"; };
 		2A7033761D7D760800DD42F0 /* SNTools.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SNTools.h; sourceTree = "<group>"; };
 		2A7033771D7D7E2F00DD42F0 /* NSObject+JsonAndDic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+JsonAndDic.h"; sourceTree = "<group>"; };
 		2A7033781D7D7E2F00DD42F0 /* NSObject+JsonAndDic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+JsonAndDic.m"; sourceTree = "<group>"; };
@@ -87,6 +94,8 @@
 		2AAFC84F1D86ACCF003730B3 /* NSDictionary+Networking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+Networking.m"; sourceTree = "<group>"; };
 		2AAFC8511D86AD39003730B3 /* NSArray+Networking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Networking.h"; sourceTree = "<group>"; };
 		2AAFC8521D86AD39003730B3 /* NSArray+Networking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Networking.m"; sourceTree = "<group>"; };
+		2ABBFE1D1D8E3DFA00125CA7 /* NET1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NET1ViewController.h; sourceTree = "<group>"; };
+		2ABBFE1E1D8E3DFA00125CA7 /* NET1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NET1ViewController.m; sourceTree = "<group>"; };
 		2AC1C0781D6EC6D900DE3E55 /* SNFramework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SNFramework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AC1C07C1D6EC6D900DE3E55 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2AC1C07E1D6EC6D900DE3E55 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -134,6 +143,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2A3BEC001D93CAD200579956 /* SNWordView */ = {
+			isa = PBXGroup;
+			children = (
+				2A3BEC011D93CAEE00579956 /* SNWordViewController.h */,
+				2A3BEC021D93CAEE00579956 /* SNWordViewController.m */,
+				2A515F361D94CAE60020D232 /* SNSegmentedControl.h */,
+				2A515F371D94CAE60020D232 /* SNSegmentedControl.m */,
+			);
+			path = SNWordView;
+			sourceTree = "<group>";
+		};
 		2A7033751D7D75EA00DD42F0 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
@@ -238,6 +258,8 @@
 		2AAFC83D1D8696A4003730B3 /* Examples */ = {
 			isa = PBXGroup;
 			children = (
+				2A3BEC001D93CAD200579956 /* SNWordView */,
+				2ABBFE1C1D8E3DC500125CA7 /* NET1-Example */,
 				2AAFC83E1D8696CE003730B3 /* NET2-Example */,
 			);
 			path = Examples;
@@ -254,6 +276,15 @@
 				2AAFC8461D869E41003730B3 /* NET2Controller.m */,
 			);
 			path = "NET2-Example";
+			sourceTree = "<group>";
+		};
+		2ABBFE1C1D8E3DC500125CA7 /* NET1-Example */ = {
+			isa = PBXGroup;
+			children = (
+				2ABBFE1D1D8E3DFA00125CA7 /* NET1ViewController.h */,
+				2ABBFE1E1D8E3DFA00125CA7 /* NET1ViewController.m */,
+			);
+			path = "NET1-Example";
 			sourceTree = "<group>";
 		};
 		2AC1C06F1D6EC6D900DE3E55 = {
@@ -530,12 +561,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A3BEC031D93CAEE00579956 /* SNWordViewController.m in Sources */,
 				2AAFC82F1D864FA2003730B3 /* NetworkingBaseManager.m in Sources */,
 				2AAFC84D1D86AA00003730B3 /* NetworkingCacheObjdect.m in Sources */,
 				2A7033791D7D7E2F00DD42F0 /* NSObject+JsonAndDic.m in Sources */,
 				2AAFC8391D867EF1003730B3 /* NSString+Networking.m in Sources */,
 				2A70337C1D7D7F7700DD42F0 /* NSString+Tool.m in Sources */,
 				2AAFC83C1D8691B6003730B3 /* NetworkingCache.m in Sources */,
+				2ABBFE1F1D8E3DFA00125CA7 /* NET1ViewController.m in Sources */,
 				2AC1C0831D6EC6D900DE3E55 /* ViewController.m in Sources */,
 				2AAFC8411D86970C003730B3 /* SNManager.m in Sources */,
 				2AAFC82A1D864E6C003730B3 /* SNNetCache.m in Sources */,
@@ -543,6 +576,7 @@
 				2AAFC8501D86ACCF003730B3 /* NSDictionary+Networking.m in Sources */,
 				2AAFC8531D86AD39003730B3 /* NSArray+Networking.m in Sources */,
 				2AAFC84A1D86A16D003730B3 /* BaseViewController.m in Sources */,
+				2A515F381D94CAE60020D232 /* SNSegmentedControl.m in Sources */,
 				2AC1C0801D6EC6D900DE3E55 /* AppDelegate.m in Sources */,
 				2AAFC8361D865C86003730B3 /* NetHTTPSessionManager.m in Sources */,
 				2AC1C07D1D6EC6D900DE3E55 /* main.m in Sources */,
